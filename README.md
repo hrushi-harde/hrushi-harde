@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathamesh+Bhavsar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrushikesh+Harde!;" />
 </h1>
 
 <h3 align="center">A passionate software developer </h3>
@@ -25,17 +25,17 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:prathamesh.bhavsar24@gmail.com">
+  <a href="mailto:hrushiharde96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/prathamesh-bhavsar-" target="_blank">
+  <a href="https://www.linkedin.com/in/hrushikesh-harde-98408426a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://prathamesh-bhavsar.vercel.app/" target="_blank">
+  <a href="https://hrushikesh-harde.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <br/>
-  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=24prathamesh2004.24prathamesh2004" />
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=hrushi-harde.hrushi-harde" />
 </div>
 
  <hr/>
@@ -53,17 +53,17 @@
 <div align="center">
  <h2>🐍 Snake Eating Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/24prathamesh2004/24prathamesh2004/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hrushi-harde/hrushi-harde/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24prathamesh2004&show_icons=true&locale=en&layout=compact" alt="prathamesh-bhavsar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushi-harde&show_icons=true&locale=en&layout=compact" alt="hrushikesh-harde" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24prathamesh2004&show_icons=true&locale=en" alt="prathamesh-bhavsar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrushi-harde&show_icons=true&locale=en" alt="hrushikesh-harde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=24prathamesh2004&" alt="prathamesh-bhavsar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-harde&" alt="hrushikesh-harde" /></p>
 
 <hr/>
 
