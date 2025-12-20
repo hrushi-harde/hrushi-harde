@@ -57,17 +57,36 @@
   
   <br/><br/><br/>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushi-harde&show_icons=true&locale=en&layout=compact" alt="hrushikesh-harde" /></p>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrushi-harde&show_icons=true&locale=en" alt="hrushikesh-harde" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-harde&" alt="hrushikesh-harde" /></p>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hrushi-harde&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 
-<hr/>
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-harde&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 
-
-
+</div>
 
 <br/>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushi-harde&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+
+</div>
+
+<br/>
+<hr/>
