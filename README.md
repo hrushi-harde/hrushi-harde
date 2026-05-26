@@ -11,9 +11,6 @@
 <h3 align="center">A passionate software developer</h3>
 
 <br/>
-<img align="center" alt="coding" width="400"
-  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br/>
 
 <div align="center">
   💬 Ask me about <b>React.js, Tailwind, JavaScript</b> or anything
