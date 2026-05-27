@@ -49,10 +49,11 @@ Currently, I am deepening my understanding of AI models, RAG pipelines, and real
 
 <div align="center">
   <h2>🐍 Snake Eating Contributions 🐍</h2>
-  <br/>
-  <img alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/hrushi-harde/hrushi-harde/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+
+  <img
+    src="https://raw.githubusercontent.com/hrushi-harde/hrushi-harde/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
