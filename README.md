@@ -50,21 +50,21 @@ Currently, I am deepening my understanding of AI models, RAG pipelines, and real
 <div align="center">
   <h2>🐍 Snake Eating Contributions 🐍</h2>
 
-  <img
-    src="https://raw.githubusercontent.com/hrushi-harde/hrushi-harde/output/github-contribution-grid-snake.svg"
-    alt="Snake animation"
-  />
+ <img
+  src="https://raw.githubusercontent.com/hrushi-harde/hrushi-harde/output/github-contribution-grid-snake-dark.svg"
+  alt="Snake animation"
+/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 
-
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-harde"
-    alt="hrushikesh-harde" />
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hrushi-harde&theme=dark"
+    alt="Hrushikesh Harde Streak Stats"
+  />
+</div>
 
 <hr/>
 <br/>
