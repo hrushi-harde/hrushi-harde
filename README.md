@@ -8,15 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrushikesh+Harde!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
-
+<h3 align="center">A passionate Software Engineer</h3>
+ 💫 About Me:
+I am a Computer Science student with a strong interest in Software Development, Machine Learning, and Artificial Intelligence. I actively work on AI-driven projects involving RAG, FastAPI, and Software engineering tools and I enjoy building end-to-end solutions using Python, modern frameworks, and deployment tools.
+Currently, I am deepening my understanding of AI models, RAG pipelines, and real-world problem solving, while continuously improving my skills through hands-on projects and experimentation. I’m especially interested in applying AI to solve practical, scalable problems.
 <br/>
 
 <div align="center">
-  💬 Ask me about <b>React.js, Tailwind, JavaScript</b> or anything
   <a href="https://github.com/hrushi-harde/hrushi-harde/issues">here</a>
   <br/><br/>
-  ⚡ Fun fact <b>I'm Smoking Code..</b>
 </div>
 
 <br/>
